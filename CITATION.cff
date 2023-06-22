@@ -4,7 +4,7 @@ authors:
   - family-names: Galasso
     given-names: Svonko
     orcid: https://orcid.org/0000-0001-5163-4458
-title: "Long form International Physical Activity Questionnaire (IPAQ) score"
+title: "International Physical Activity Questionnaire (IPAQ) long form score"
 version: 1.2
 date-released: 2022-05-05
 url: "https://github.com/XeroLen23/IPAQ-Long-Form-Score.git"
